@@ -1,7 +1,7 @@
 # JAMMIT-Algorithm
-Matlab software and data for publication: Joint analysis of multiple high-dimensional data types using sparse matrix approximations of rank-1 with applications to ovarian and liver cancer.
+Matlab software and data for the Joint Analysis of Many Matrices by ITeration (JAMMIT) algorithm.  
 
-This is a www.zenodo.org Matlab script and data upload for publication:
+This is a www.zenodo.org Matlab script and data upload for the publication:
 
 Okimoto, G.S. et al., Joint analysis of multiple high-dimensional data types using sparse matrix approximations of rank-1 with applications to ovarian and liver cancer. BioData Mining 2016, 
 
